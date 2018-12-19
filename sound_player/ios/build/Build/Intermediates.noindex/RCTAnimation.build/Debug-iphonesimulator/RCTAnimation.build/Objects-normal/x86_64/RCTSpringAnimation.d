@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/DJ_WISH/lighthouse/react_sound_player/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.m \
+  /Users/DJ_WISH/lighthouse/react_sound_player/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/DJ_WISH/lighthouse/react_sound_player/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

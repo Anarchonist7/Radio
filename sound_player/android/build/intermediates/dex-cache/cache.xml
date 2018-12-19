@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-f31d42ccccabde375b0020a93e9ef2f668d3b68c.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-09760bb41e44a6fa2eb84fc9a5ec579613632414.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-1b25dd76c81264d4e922f41f34a0b481f6c29a33.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-01bff4ade600d71a595509ecc5267a2694bfcbe5.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-72f3aa58ef86c429cbe9d33a9a931b44fd02491f.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-e2aee42cbdbaad7fc472931ef9e5a7cb0ca667c9.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-d314c0f0ba38d451494694c02de5d9cdc46bf8fa.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-09013f14f12176bdb4ee45eaf3c5fe1594ce643e.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-16c9a01ab6ca7d8536fc9fdcfc60dd93306f3b6f.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-aeb6337e3dadff1999d26858c530f39b8218145d.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-ced79a914b82d7c599870b0da9b2908d4946a452.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-fceb829170fbe4420eaf2119a3567e543176dd5d.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-ef68239252bbb81db9f1231da4c403f8fd5de7ea.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-1b707d13fd9bd62080dffec00ed75e594bb000c5.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-f0f7288d0436814e84cbc705f2860155596dd8e2.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-219f9fafc2e6f1ff8e67cf43bd72e47f79e0312f.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-908e09bc9ebcf216d3a6054b6dae08d25fe9a616.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-66b81c9c24562a45b2e6615b296d9e420e958b6f.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-3c1e0b68a7d311c1aea78c47b8656e482b331901.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/RNSoundDemo/react-native-sound/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ae2ddc4d31604fd8a18433578e62a389035d635">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-6c4c5b6c98bb925d50d6363f64c968ed19256d0a.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-a3a854a261a880d8c30440a7d8ff478e4772a72c.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-7f0b2927ffe77032037a6aaf212984a636f4843b.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-800d3e9fb97c0702b393b9f53b31f385e3a984fa.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-3ccb49ddf3018de50e7b22555dbb1e9adcdb0f19.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-6598e7250a8d11a3caea3571baeb70703f851d02.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-7940c2fecc5bf0787fade31504d900d51ae9302b.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-c69e82ce16ecb6cc8a6f3c47397be257df2bfcf3.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-c97b2829502a227253cd8ee21ee10c13dc4f9023.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-7f1cd5ea45295a239dbbb204c71cb837472f4cf1.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-00fbddbd1b0c12c622c5d1238fbfb075b821cfda.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/RNSoundDemo/react-native-sound/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eee1639ac42cfd1f409bf5d8f47d6b7cf49b3b93">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-0777d38d6be3279bb7f93aae4db01ff2047c1683.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-963dc5620291e2367e07ec5712de164fd1c2179e.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-783b7a06312f841e623bc18fcd5974f3df77f3b0.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-51d964d2224d06b0e7456d0a2c546c8454b79f13.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-ed498afd9628cfa85106dc584066e8ff813f247d.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-e5d43252302d1b87ca6a8f96089014db7393288d.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/RNSoundDemo/react-native-sound/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="da4b5c1c9c5757b08fbb8163c093f34161e8ea4b">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-8bad5ea522c0a083fb75a1388504002d1be75054.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-436c59b3e3f3252d95d48960d51206ed94cf162c.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-4a6a0c37884f9ffc93feb4dc1629e3b3dc5f7293.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-656619da299b58333fcc5634a146bbec2c0f11cc.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-729318694f55e88f81a619128f76109686be69d6.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-c6838818da1c0a273a9e0ae94748b89751be004b.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-3879fe618b9518017f64145fc58b221481ecec33.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-836390c13a2aa32e1c20fe5f03b89d6550d872cb.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-a3ba3226334dc8de1a067cdb71cb36d17359b7d0.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-de952522afd7d880fcbc1ffb55a73c6bbfed826c.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-06c67d71eee0d2849a406b6bc0770f3e0f79421b.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-da0df4fd52a5972bfdc0b8a9dd3df0d1f7aa11a1.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-587e6c20cf1af1b597512016a24010e5b7236f4f.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/DJ_WISH/lighthouse/Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-506b473ad99b0b0e8387bd430680d6281e96d6a5.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-bd68edce024a4eb162816213b95b67d5b23e1f46.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-69d0bd8afacac2eae52a52efcd146ce43195e403.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-c5409aee9f574fe544d71c03ba20aa9d29eff877.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/DJ_WISH/lighthouse/react_sound_player/sound_player/android/app/build/intermediates/pre-dexed/debug/classes-086a9d827fffde2674786c2f06557042f0a3cce7.jar" />
+    </item>
+    <item
+        jar="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/DJ_WISH/lighthouse/Pirate_Radio/sound_player/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-ee296ee6a1812b21d22ca456ffa04e9d92beaf8d.jar" />
+    </item>
+
+</items>
