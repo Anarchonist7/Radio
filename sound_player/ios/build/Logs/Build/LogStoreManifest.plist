@@ -35,7 +35,7 @@
 			<key>uniqueIdentifier</key>
 			<string>2A3D2E8E-FBB7-431E-BEE1-3CCF34992AF9</string>
 		</dict>
-		<key>4276B79E-AF96-4097-9CFA-183D6D2DCE93</key>
+		<key>929CE255-2021-4C74-B340-D46A3D09F5B2</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -44,9 +44,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4276B79E-AF96-4097-9CFA-183D6D2DCE93.xcactivitylog</string>
+			<string>929CE255-2021-4C74-B340-D46A3D09F5B2.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>W</string>
+			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>RNSoundDemo project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -56,13 +56,13 @@
 			<key>signature</key>
 			<string>Building project RNSoundDemo with scheme RNSoundDemo and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>566948906.76543605</real>
+			<real>566951611.66521001</real>
 			<key>timeStoppedRecording</key>
-			<real>566948911.14604795</real>
+			<real>566951614.30239499</real>
 			<key>title</key>
 			<string>Building project RNSoundDemo with scheme RNSoundDemo and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>4276B79E-AF96-4097-9CFA-183D6D2DCE93</string>
+			<string>929CE255-2021-4C74-B340-D46A3D09F5B2</string>
 		</dict>
 	</dict>
 </dict>
